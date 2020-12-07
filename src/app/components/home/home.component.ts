@@ -21,14 +21,14 @@ export class HomeComponent implements OnInit {
       version : 7,
       db: 'Firebase RTDB',
       hosted: 'Firebase',
-      hostedLink: 'https://owm-a7-fb.firebaseapp.com/',
+      hostedLink: 'https://owm-a7-fb.firebaseapp.com/v1/forecast-flex',
       sourceLink:'https://github.com/zakhcst/owm-a7-fb'
     },
     {
       version : 7,
       db: 'Firebase RTDB',
       hosted: 'GCP AE(f1)',
-      hostedLink: 'https://owm-a7-fb.appspot.com/',
+      hostedLink: 'https://owm-a7-fb.firebaseapp.com/v1/forecast-flex',
       sourceLink:'https://github.com/zakhcst/owm-a7-fb'
     },
     {
